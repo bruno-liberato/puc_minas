@@ -1,0 +1,13 @@
+## PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+## NÚCLEO DE EDUCAÇÃO A DISTÂNCIA
+# Pós-graduação Lato Sensu em Ciência de Dados e Big Data
+
+Bruno Liberato da Silva
+
+
+
+
+
+## PREDIÇÃO DE SÉRIES TEMPORAIS: UMA ABORDAGEM APLICADA AO MERCADO DE CRIPTOMOEDAS
+
+
